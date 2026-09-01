@@ -25,8 +25,6 @@ Além de servir como projeto de estudo, este repositório faz parte do meu proce
 * 🗂️ Organização do projeto em módulos
 * 💻 Interface web para interação com o sistema
 
-> 🚧 O projeto está em desenvolvimento e novas funcionalidades serão adicionadas conforme sua evolução.
-
 ---
 
 ## 🛠️ Tecnologias
