@@ -67,46 +67,6 @@ A separação entre Front-end e Back-end facilita a organização do projeto e p
 
 ---
 
-## ⚙️ Como executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/arthur-wso/login-de-usuarios.git
-```
-
-### 2. Entre na pasta
-
-```bash
-cd login-de-usuarios
-```
-
-### 3. Acesse o Back-end
-
-```bash
-cd "Back End"
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-### 4. Inicie o servidor
-
-```bash
-npm start
-```
-
-### 5. Execute o Front-end
-
-Abra a pasta `Front End` no navegador ou utilize o método de execução configurado no projeto.
-
-> Os comandos podem variar dependendo da configuração atual do projeto.
-
----
-
 ## 🎯 Objetivos do projeto
 
 Este projeto foi desenvolvido com foco no aprendizado e na prática de:
