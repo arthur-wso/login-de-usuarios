@@ -39,7 +39,8 @@ Além de servir como projeto de estudo, este repositório faz parte do meu proce
 ### Back-end
 
 * Node.js
-* [Tecnologias utilizadas no Back-end]
+* Cors
+* Prisma
 
 ### Ferramentas
 
