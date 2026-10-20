@@ -1,4 +1,4 @@
-# 🔐 Login de Usuários
+# Login de Usuários
 
 Sistema web de **autenticação e gerenciamento de usuários**, desenvolvido com o objetivo de aplicar na prática conceitos de desenvolvimento **Front-end e Back-end**, integração entre aplicações e organização de projetos.
 
@@ -6,7 +6,7 @@ O projeto está dividido em duas partes principais: uma aplicação responsável
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O **Login de Usuários** é um projeto desenvolvido para estudar e aplicar conceitos fundamentais de desenvolvimento web, com foco na criação de um sistema de autenticação.
 
@@ -16,18 +16,18 @@ Além de servir como projeto de estudo, este repositório faz parte do meu proce
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-* 🔑 Sistema de login
-* 👤 Gerenciamento de usuários
-* 🔒 Autenticação de usuários
-* 📡 Comunicação entre Front-end e Back-end
-* 🗂️ Organização do projeto em módulos
-* 💻 Interface web para interação com o sistema
+* Sistema de login
+* Gerenciamento de usuários
+* Autenticação de usuários
+* Comunicação entre Front-end e Back-end
+* Organização do projeto em módulos
+* Interface web para interação com o sistema
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Front-end
 
@@ -49,7 +49,7 @@ Além de servir como projeto de estudo, este repositório faz parte do meu proce
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 login-de-usuarios/
@@ -67,7 +67,7 @@ A separação entre Front-end e Back-end facilita a organização do projeto e p
 
 ---
 
-## 🎯 Objetivos do projeto
+## Objetivos do projeto
 
 Este projeto foi desenvolvido com foco no aprendizado e na prática de:
 
@@ -81,7 +81,7 @@ Este projeto foi desenvolvido com foco no aprendizado e na prática de:
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 O desenvolvimento deste projeto tem como principal objetivo transformar conceitos teóricos em experiência prática.
 
@@ -89,13 +89,13 @@ Durante sua construção, são trabalhados conceitos relacionados a **Front-end,
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Arthur Pereira**
 
 Desenvolvedor em formação, interessado em desenvolvimento web e evolução contínua através de projetos práticos.
 
-### 🔗 Redes profissionais
+### Redes profissionais
 
-* 🐙 **GitHub:** [@arthur-wso](https://github.com/arthur-wso)
-* 💼 **LinkedIn:** [Arthur Pereira](https://www.linkedin.com/in/arthurpereirawso/)
+* **GitHub:** [@arthur-wso](https://github.com/arthur-wso)
+* **LinkedIn:** [Arthur Pereira](https://www.linkedin.com/in/arthurpereirawso/)
