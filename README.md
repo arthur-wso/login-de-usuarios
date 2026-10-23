@@ -22,8 +22,6 @@ Além de servir como projeto de estudo, este repositório faz parte do meu proce
 * Gerenciamento de usuários
 * Autenticação de usuários
 * Comunicação entre Front-end e Back-end
-* Organização do projeto em módulos
-* Interface web para interação com o sistema
 
 ---
 
@@ -48,24 +46,6 @@ Além de servir como projeto de estudo, este repositório faz parte do meu proce
 * Git
 * GitHub
 * Visual Studio Code
-
----
-
-## Estrutura do projeto
-
-```text
-login-de-usuarios/
-│
-├── Back End/
-│   └── ...
-│
-├── Front End/
-│   └── ...
-│
-└── README.md
-```
-
-A separação entre Front-end e Back-end facilita a organização do projeto e permite que cada parte da aplicação seja desenvolvida de forma independente.
 
 ---
 
@@ -94,8 +74,6 @@ Durante sua construção, são trabalhados conceitos relacionados a **Front-end,
 ## Autor
 
 **Arthur Pereira**
-
-Desenvolvedor em formação, interessado em desenvolvimento web e evolução contínua através de projetos práticos.
 
 ### Redes profissionais
 
